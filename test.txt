@@ -1,3 +1,6 @@
 Apple
 Orange
 Mango
+Banana
+Lemon
+Coconut
